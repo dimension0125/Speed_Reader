@@ -19,7 +19,7 @@
 
 ## 🚀 사용 방법 (Quick Start)
 
-* 해당 링크로 들어갑니다: 
+# [🌐 해당 링크로 들어갑니다](https://dimension0125.github.io/Speed_Reader/)
 
 1.  본 저장소의 `독해.html` 파일을 다운로드합니다.
 2.  크롬(Chrome)이나 사파리(Safari) 등 브라우저에서 파일을 실행합니다.
